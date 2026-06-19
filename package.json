@@ -1,0 +1,17 @@
+{
+  "name": "aurevon-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Aurevon Dev - WhatsApp AI Bot (Karsilama, Satis, AI Asistan, Teklif, SSS)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
